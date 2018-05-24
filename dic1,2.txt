@@ -6,3 +6,47 @@ for i in range(20):
 print(dict)
 for s in sorted(dict):
 	print(s,":",dict[s])
+
+
+
+enter aniket:20
+enterapp:10
+enteraaaa:16
+enterraj:21
+enterram:45
+enteryen:33
+enterpoo:67
+enterpop:21
+enterray:15
+enterrez:31
+enterguy:64
+enterfuop:32
+enterded:11
+enterwep:43
+enterdum:62
+enterawsd:55
+enterdsa:29
+enterhass:9
+enterapo:07
+enterkajal:3
+{' aniket': '20', 'app': '10', 'aaaa': '16', 'raj': '21', 'ram': '45', 'yen': '33', 'poo': '67', 'pop': '21', 'ray': '15', 'rez': '31', 'guy': '64', 'fuop': '32', 'ded': '11', 'wep': '43', 'dum': '62', 'awsd': '55', 'dsa': '29', 'hass': '9', 'apo': '07', 'kajal': '3'}
+ aniket : 20
+aaaa : 16
+apo : 07
+app : 10
+awsd : 55
+ded : 11
+dsa : 29
+dum : 62
+fuop : 32
+guy : 64
+hass : 9
+kajal : 3
+poo : 67
+pop : 21
+raj : 21
+ram : 45
+ray : 15
+rez : 31
+wep : 43
+yen : 33
