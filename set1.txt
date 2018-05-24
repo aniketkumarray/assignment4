@@ -1,0 +1,16 @@
+>>> set1  = set()
+>>> set1.add("dead")
+>>> set1.add("pool")
+>>> print(set1)
+{'dead', 'pool'}
+>>> set2 = set()
+>>> set2.add("dead")
+>>> set2.add("two")
+>>> print(set2)
+{'dead', 'two'}
+>>> set3 = set1 - set2
+>>> print(set3)
+{'pool'}
+>>> set4 = set1 & set2
+>>> print(set4)
+{'dead'}

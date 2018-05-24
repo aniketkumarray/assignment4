@@ -1,0 +1,6 @@
+>>> a=(1,2,3,4)
+>>> from operator import mul
+>>> from functools import reduce
+>>> reduce(mul,a)
+24
+
