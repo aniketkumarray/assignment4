@@ -1,0 +1,8 @@
+dict={ }
+for i in range(20):
+    num=input("enter")
+    l=num.split(":")
+    dict[l[0]]=l[1]
+print(dict)
+for s in sorted(dict):
+	print(s,":",dict[s])
