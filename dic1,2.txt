@@ -5,15 +5,15 @@
 	d[l[0]] = l[1]
 
 	
-enterani:10
-enterapoo:12
-enteranie:14
-enteranyy:16
-enterapyy:18
-enteranan:11
-enteranuu:17
-enteranii:19
-enteraluu:13
-enteradyy:20
+enter ram:10
+enter raj :20
+enter alex:14
+enter anyy:16
+enter apii:18
+enter rahul:16
+enter anu:65
+enter aniket:90
+enter adii:13
+enter ady:28
 >>> print(d)
-{'ani': '10', 'apoo': '12', 'anie': '14', 'anyy': '16', 'apyy': '18', 'anan': '11', 'anuu': '17', 'anii': '19', 'aluu': '13', 'adyy': '20'}
+{'ram': '10', 'raj': '20', 'alex': '14', 'anyy': '16', 'apii': '18', 'rahul': '16', 'anu': '65', 'aniket': '90', 'adii': '13', 'ady': '28'}
